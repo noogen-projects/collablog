@@ -1,2 +1,2 @@
-# collablog
-The collaborative blog engine
+# coloblog
+The collaborative, locally oriented blog engine 
